@@ -1,0 +1,13 @@
+#server:
+#  port: 9099
+#  servlet:
+#    context-path: /chaptet
+#
+#student:
+#  id: 894
+#  name: 土狗
+#  hobby: [read,play4]
+#  elect-product: [phobe,pc]
+#  friends:
+#    {key1: ui,key2: mk}
+#  course: {courseId: 678,courseName: 土狗}
